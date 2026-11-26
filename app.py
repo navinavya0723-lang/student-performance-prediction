@@ -33,7 +33,7 @@ st.markdown("""
 
 st.markdown("""
 <div class="hero">
-  <h1>🎓 Student Performance Prediction</h1>
+  <h1>🎓 Students Performance Prediction</h1>
   <p>Estimate academic performance using machine learning and student study indicators.</p>
 </div>
 """, unsafe_allow_html=True)
