@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Prediction System
 
 A Python and Machine Learning mini project that estimates a student's examination score from study-related indicators. The app is built with Streamlit and uses a Random Forest Regressor from scikit-learn.
@@ -95,3 +96,7 @@ The dataset is synthetic and designed only for demonstrating the machine-learnin
 - Compare multiple regression algorithms.
 - Add model explainability and more detailed evaluation charts.
 - Store user-submitted records in a database.
+=======
+# student-performance-prediction
+A Machine Learning based Student Performance Prediction System using Python and Streamlit
+>>>>>>> 93a1e18cad321d0c911f3fcba114ad207bb67e70
